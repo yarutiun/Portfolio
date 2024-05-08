@@ -116,3 +116,13 @@ body {
     text-align: justify;
     list-style-type: none;
   }
+
+  .contact {
+    animation: fadeIn 2s ease-in-out;
+    color: #dda2dd;
+    padding: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+    width: 100%;
+  }
